@@ -1,6 +1,6 @@
 # soa_2021-25-PS-7
 
-# Chronic Kidney Disease Classification
+# Chronic Kidney Disease Prediction
 
 ## Aim
 The aim of this project is to develop a machine learning model to classify whether or not a patient has **Chronic Kidney Disease (CKD)** based on medical attributes such as age, blood pressure, specific gravity, albumin, sugar, red blood cells, and more. The model is evaluated based on several performance metrics, including **accuracy, precision, recall, F1-score, and specificity**.
