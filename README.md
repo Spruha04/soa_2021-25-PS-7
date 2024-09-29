@@ -35,7 +35,7 @@ The Random Forest classifier achieved the following performance metrics:
 - **True Positives**: 52
 
 ### Conclusion
-The model shows strong performance in classifying patients with Chronic Kidney Disease, achieving high scores across all key metrics. With an accuracy of 95% and a balanced recall and specificity, the model performs well both in detecting CKD and correctly identifying non-CKD patients.
+The model shows strong performance in classifying patients with Chronic Kidney Disease, achieving high scores across all key metrics. With an accuracy of 100% and a balanced recall and specificity, the model performs well both in detecting CKD and correctly identifying non-CKD patients.
 
 ## Requirements
 - Python 3.x
